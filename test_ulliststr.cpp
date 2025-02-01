@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
 	for (int i = 0; i < content.size(); i++){
     dat.push_back(content[i]);
 
-  }
+  } 
 
   //dat.pop_back();
 
